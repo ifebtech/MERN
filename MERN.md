@@ -53,7 +53,7 @@ and Node.js**, used to build full-stack web applications.
 
 Use **EC2 Instance Connect** from the AWS Console.
 
-![EC2 Instance Connect](images/image01.png)
+![EC2 Instance Connect](images/image10.png)
 
 ![Step 4: Clone the To-Do App Repository](images/image1.png)
 
